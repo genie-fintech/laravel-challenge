@@ -46,8 +46,7 @@ Do the following tasks:
 
 - Fix the wrong usage code
 
-### Bonus
-#### Test Cases
+#### 6. Test Cases
 - Write feature tests for a login API.
 - Write unit tests for MPT Service and Ooredoo Service.
 
